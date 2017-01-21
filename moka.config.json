@@ -1,21 +1,20 @@
 {
-    "theme": "toy",
+    "theme": "moka",
     "title": "Moyu Blog",
-    "favicon": "/head.jpg",
+    "favicon": "/moka-png.png",
     "author": "moyu",
     "description": "moyu Blog",
     "siteName": "site",
 
     "deploy": {
         "type": "git",
+        "name": "origin",
         "url": "https://github.com/Kanakoo/Kanakoo.github.io.git",
         "branch": "master"
     },
     "bak": {
         "type": "git",
-	"url": "https://github.com/Kanakoo/Kanakoo.github.io.source.git",
+        "url": "https://github.com/Kanakoo/blogsource.git",
         "branch": "master"
     }
-
-    
 }
