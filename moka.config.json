@@ -14,7 +14,7 @@
     },
     "bak": {
         "type": "git",
-        "url": "https://github.com/Kanakoo/blogsource.git",
+        "url": "https://github.com/Kanakoo/Kanakoo.github.io.source.git",
         "branch": "master"
     }
 }
